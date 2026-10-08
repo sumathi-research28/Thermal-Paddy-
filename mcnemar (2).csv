@@ -1,0 +1,4 @@
+model,seed,only_image_right,only_branch_right,p
+VGG16 + Thermal encoder,0,5,2,0.4531
+VGG16 + Thermal encoder,1,1,2,1.0
+VGG16 + Thermal encoder,2,6,2,0.2891
